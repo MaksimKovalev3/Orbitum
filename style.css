@@ -1,0 +1,139 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+/* Orbitum */
+h1 {
+font-family: 'Exo 2';
+font-size: 30px;
+color: #FFFFFF;
+text-align: center;}
+
+h2 {
+font-family: 'Exo 2';
+font-size: 28px;
+color: #FFFFFF;
+text-align: center;}
+
+
+/* Frame 1 */
+body {
+position: relative;
+background: linear-gradient(180deg, #1B1A49 0%, #403E98 100%);}
+
+.logo1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+/* Rectangle 6 */
+.card {
+width: 150px;
+height: 230px;
+left: 770px;
+top: 726px;
+
+background: linear-gradient(180deg, #172446 0%, #213569 100%);
+border-radius: 20px;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+header img {
+    width: 80px;
+}
+
+.card-text {
+    text-align: center;
+    font-family: 'Caveat';
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-top: 33px;
+}
+
+.text {
+    font-family: 'Exo 2';
+    margin-left: 10px;
+}
+
+.card-text1 {
+   font-family: 'Exo 2';
+   font-size: 13px; 
+   margin-left: 10px;
+}
+
+
+.footer1 {
+width: 570px;
+height: 125px;
+background: linear-gradient(180deg, #283D6F 0%, #385292 100%);
+border-radius: 20px;
+margin-top: 40px;
+margin-bottom: 28px;
+margin-left: 30px;
+}
+
+footer p{
+font-family: 'Exo 2';
+font-style: normal;
+font-size: 14px;
+color: #FFFFFF;
+padding-left: 15px;
+padding-top: 10px;
+}
+
